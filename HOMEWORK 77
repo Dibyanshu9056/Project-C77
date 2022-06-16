@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>
+       ANYTHING
+        </title>
+    </head>
+    <body>
+    <h1>ANYTHING</h1>
+    <script type="text/javascript">
+    console.log("I am the Console Screen");
+    var firstname="Vivaan";
+    console.log (firstname);
+    var secondname="Seal";
+    console.log (secondname);
+    var fullname=firstname.concat(secondname);
+    console.log(fullname);
+
+    var Square=Math.sqrt(324);
+    console.log (Square);
+    var maximum=Math.max(123,124,678);
+    console.log (maximum);
+    </script>
